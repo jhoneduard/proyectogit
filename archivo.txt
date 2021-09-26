@@ -1,1 +1,2 @@
 Archivo a agregar en el staging area
+se hara prueba de merge
